@@ -1,0 +1,18 @@
+.header {
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  overflow: hidden;
+}
+
+/* .header__square-pic {
+  position: absolute;
+  background-color: #2f80ed;
+  right: 0;
+  top: 64px;
+  height: 568px;
+  width: 568px;
+  z-index: 0;
+} */

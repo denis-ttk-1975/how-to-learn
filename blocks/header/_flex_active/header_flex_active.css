@@ -1,0 +1,5 @@
+.header_flex_active {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
