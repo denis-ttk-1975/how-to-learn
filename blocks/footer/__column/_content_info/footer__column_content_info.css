@@ -1,5 +1,4 @@
-.content {
+.footer__column_content_info {
   display: flex;
-  align-items: center;
   flex-direction: column;
 }
