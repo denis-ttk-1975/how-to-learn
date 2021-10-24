@@ -8,6 +8,8 @@
   /* width: 80%; */
   background-color: #1f1f1f;
   width: 100%;
+  position: relative;
+  overflow: hidden;
 }
 
 .section-title {
@@ -24,6 +26,7 @@
 }
 .table_theme_dark {
   color: #fff;
+  z-index: 2;
 }
 .table__cell {
 }
@@ -38,4 +41,11 @@
 .table__text {
 }
 .table__text_theme_dark {
+}
+
+.kaufman__triangle {
+  position: absolute;
+  z-index: 0;
+  right: -210px;
+  height: 100%;
 }
