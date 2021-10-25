@@ -4,6 +4,8 @@
   font-weight: 400;
   padding-top: 18px;
   padding-bottom: 18px;
-  position: absolute;
+  /* position: absolute;
   bottom: 0;
+  margin: 0; */
+  margin: 0;
 }
