@@ -2,7 +2,8 @@
   position: absolute;
   z-index: 1;
   right: -210px;
-  height: 100%;
-  width: 742px;
+  height: 1033px;
+  width: 1033px;
   background-image: url("../../../images/triangle.svg");
+  background-size: contain;
 }
